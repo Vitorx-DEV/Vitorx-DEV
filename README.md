@@ -14,7 +14,32 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+## 👨🏽‍💻 Vitor Xavier
+
+🎓 Estudante de Engenharia da Computação  
+🎯 Em busca de oportunidade de estágio na área de tecnologia  
+
+Atualmente focado no aprendizado de desenvolvimento web e fundamentos da programação, aplicando na prática por meio de projetos acadêmicos e pessoais.
+
+---
+
+### 🛠️ Tecnologias em aprendizado
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+
+---
+
+### 🚀 Projetos
+📌 *Aula Tabela HTML*  
+Repositório: https://github.com/Vitorx-DEV/aula-tabela  
+
+Projeto desenvolvido com foco na prática de estruturação de tabelas em HTML, aplicando conceitos básicos de marcação e organização de conteúdo.
+
+---
+
+📚 Sempre buscando evoluir, aprender novas tecnologias e ganhar experiência prática na área.
  
 <div> 
   <a href="https://instagram.com/vitor05hugo__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
