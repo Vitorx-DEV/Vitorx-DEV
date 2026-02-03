@@ -13,7 +13,7 @@
 </div>
  
 <br>
-## Vitor Xavier
+Vitor Xavier
 
 Estudante de Engenharia da Computação  
 Em busca de oportunidade de estágio na área de Tecnologia / Engenharia da Computação  
