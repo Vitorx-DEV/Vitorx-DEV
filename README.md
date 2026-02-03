@@ -32,7 +32,7 @@ Atualmente focado no aprendizado de desenvolvimento web e fundamentos da program
 ---
 
 ### 🚀 Projetos
-📌 *Aula Tabela HTML*  
+📌 *Aula Tabela HTML*
 Repositório: https://github.com/Vitorx-DEV/aula-tabela  
 
 Projeto desenvolvido com foco na prática de estruturação de tabelas em HTML, aplicando conceitos básicos de marcação e organização de conteúdo.
