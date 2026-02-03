@@ -13,17 +13,16 @@
 </div>
  
 <br>
- 
-## 👨🏽‍💻 Vitor Xavier
+## Vitor Xavier
 
-🎓 Estudante de Engenharia da Computação  
-🎯 Em busca de oportunidade de estágio na área de tecnologia  
+Estudante de Engenharia da Computação  
+Em busca de oportunidade de estágio na área de Tecnologia / Engenharia da Computação  
 
-Atualmente focado no aprendizado de desenvolvimento web e fundamentos da programação, aplicando na prática por meio de projetos acadêmicos e pessoais.
+Atualmente focado no aprendizado de desenvolvimento web e fundamentos da programação, aplicando os conhecimentos por meio de projetos práticos e versionamento no GitHub.
 
 ---
 
-### 🛠️ Tecnologias em aprendizado
+## Tecnologias e Ferramentas
 - HTML5  
 - CSS3  
 - JavaScript  
@@ -31,15 +30,33 @@ Atualmente focado no aprendizado de desenvolvimento web e fundamentos da program
 
 ---
 
-### 🚀 Projetos
-📌 *Aula Tabela HTML*
-Repositório: https://github.com/Vitorx-DEV/aula-tabela  
+## Projeto em Destaque
 
-Projeto desenvolvido com foco na prática de estruturação de tabelas em HTML, aplicando conceitos básicos de marcação e organização de conteúdo.
+*Fundo Mágico*  
+Projeto web desenvolvido com HTML, CSS e JavaScript que permite ao usuário descrever um background desejado, praticando formulários, organização de código e interação com o usuário.
+
+*Demo:* https://vitorx-dev.github.io/fundo-magico/  
+*Repositório:* https://github.com/Vitorx-DEV/fundo-magico  
 
 ---
 
-📚 Sempre buscando evoluir, aprender novas tecnologias e ganhar experiência prática na área.
+## Outros Projetos
+
+*Aula Tabela HTML*  
+Projeto simples criado para praticar a estruturação de tabelas utilizando HTML, reforçando conceitos básicos de marcação e organização de dados.
+
+Repositório: https://github.com/Vitorx-DEV/aula-tabela  
+
+---
+
+## Habilidades
+- Facilidade de aprendizado  
+- Organização e atenção aos detalhes  
+- Boa comunicação e trabalho em equipe  
+
+---
+
+Aberto a aprender novas tecnologias e ferramentas conforme a necessidade da equipe e da empresa.
  
 <div> 
   <a href="https://instagram.com/vitor05hugo__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
